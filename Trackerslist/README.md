@@ -3,7 +3,7 @@ https://trackerslist.com/all.txt
 
 
 
-[@ngosang/trackerslist]（https://github.com/ngosang/trackerslist）
+[@ngosang/trackerslist](https://github.com/ngosang/trackerslist）
 
 ### Lists
 *These lists are automatically updated every day. Last update 2021/04/15:*
