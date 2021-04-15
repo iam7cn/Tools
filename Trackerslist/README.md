@@ -1,4 +1,45 @@
-https://trackerslist.com/all.txt
+### 更新时间: 2021-04-15
+
+_以下列表每 8 小时更新一次！_
+
+- **精选列表：**(103 个)  
+ _**https://trackerslist.com/best.txt**_  
+- **完整列表：**(331 个)  
+ _**https://trackerslist.com/all.txt**_  
+- **HTTP(S)列表：**(143 个)  
+ _**https://trackerslist.com/http.txt**_  
+
+<details>
+<summary><strong><code>[点击展开] - 查看备用地址</code></strong></summary>
+
+****
+
+- **精选列表：**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/best.txt**_  
+- **完整列表：**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/all.txt**_  
+- **HTTP(S)列表：**  
+ _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection@master/http.txt**_  
+
+</details>
+
+****
+
+### 如何使用?
+
+#### Aria2:
+
+<details>
+<summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
+
+- **精选列表：**  
+ **_[https://trackerslist.com/best_aria2.txt](https://trackerslist.com/best_aria2.txt)_**  
+- **完整列表：**  
+ **_[https://trackerslist.com/all_aria2.txt](https://trackerslist.com/all_aria2.txt)_**  
+- **HTTP(S)列表：**  
+ **_[https://trackerslist.com/http_aria2.txt](https://trackerslist.com/http_aria2.txt)_**  
+
+</details>
 
 
 
